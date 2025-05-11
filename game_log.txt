@@ -1,0 +1,24 @@
+Game started.
+Player moved from You are outside the castle to You are in the lobby of the castle, a hall with lights in the ceilings.
+Player moved from You are in the lobby of the castle, a hall with lights in the ceilings to table room with dishes on it.
+Player picked up health bag.
+Player picked up health drink.
+Player moved from table room with dishes on it to A big room of weapons.
+Player equipped the shield for increased protection.
+Player picked up sword.
+Player moved from A big room of weapons to A dark, damp room with the faint sound of chains rattling.
+Player picked up key.
+Player moved from A dark, damp room with the faint sound of chains rattling to A secret room concealed behind a bookshelf, full of mysterious artifacts.
+Player moved from A secret room concealed behind a bookshelf, full of mysterious artifacts to An old room with book shelves.
+Player moved from An old room with book shelves to A circular room with a window overlooking the castle grounds.
+Player picked up health drink.
+Attempted to go east, but no door exists.
+Player moved from A circular room with a window overlooking the castle grounds to A luxurious room with elegant furnishings.
+Player attempted to fight, but no dragon was present.
+Player moved from A luxurious room with elegant furnishings to A fiery chamber where the dragon waits.
+Player engaged the dragon in combat.
+Dragon attacked! Player took 25 damage. Current health: 95.
+Dragon attacked! Player took 30 damage. Current health: 65.
+Dragon attacked! Player took 28 damage. Current health: 37.
+Dragon attacked! Player took 30 damage. Current health: 37.
+Dragon attacked! Player took 18 damage. Current health: 49.
